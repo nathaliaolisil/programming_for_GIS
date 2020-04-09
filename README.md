@@ -1,2 +1,2 @@
 # programming_for_GIS
-Some scripts to help automatize processes and analysis in ArcGIS 10.2
+Here are some scripts that helped me to automatize processes, methodologies and analysis at work. I use ArcGIS and python to process data, specially satellite images. 
