@@ -1,7 +1,5 @@
 import os
-import os.path
 import arcpy
-from datetime import datetime, date
 
 #Copy Raster
 def copyraster(temp, rasterlist, out_temp):
