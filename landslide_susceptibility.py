@@ -1,5 +1,5 @@
 #----------------------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          Tautomatize part of the methodology created by Geologos del mundo to
 #                   calculate and map landslide susceptibility. 

@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script gives as an output the percentage of The Bronx population
 #                   within the blocks 1/4 mile from the subway stations in NYC.
@@ -59,6 +59,7 @@ arcpy.AddField_management (BX_CB_Buffer_Pop, "Perc_POP", "FLOAT")
 #Calculate percentage pop
 arcpy.CalculateField_management (BX_CB_Buffer_Pop, "Perc_POP", "!SUM_POP! / !SUM_POP_1! *100", "PYTHON_9.3")
 print (arcpy.GetCount_management())
+
 
 
 

@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script does all of the following:
 #                   - Create a search cursor for your dataset

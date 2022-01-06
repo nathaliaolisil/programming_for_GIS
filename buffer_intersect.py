@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script gives as an output a layer with the blocks that 
 #                   are half mile from a shapefile of the subway stations in NY.

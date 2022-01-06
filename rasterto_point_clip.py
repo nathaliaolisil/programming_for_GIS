@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script uses a for loop to convert a group of raster files to
 #                   to point and then clips the points to a specific region.

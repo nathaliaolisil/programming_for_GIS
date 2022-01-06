@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script does:
 #                   - Add a new field to the dataset

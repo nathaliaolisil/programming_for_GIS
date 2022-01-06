@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script uses a for loop to go through a group of Landsat images
 #                   and creates false color compositions for each one, then saves them

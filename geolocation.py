@@ -1,5 +1,5 @@
 #----------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script opens an text file containing addresses 
 #                   transforming them into XY coordinates using Google Maps
@@ -40,5 +40,6 @@ for line in endereco:
         coordinates.write("Address: " + line + " ") 
         coordinates.write("Coordinates: Not found")
         coordinates.close()
+
         
 

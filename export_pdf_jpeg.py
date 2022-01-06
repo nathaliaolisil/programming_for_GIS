@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Script author:    Nathalia De Oliveira Silva
+# Script author:    Nathalia De La Fuente Oliveira
 # Versions:         ArcGIS 10.2; Python 2.7.5
 # Purpose:          The script export to PDF and JPG a group of .mxd files
 #                   in a  folder.
